@@ -1,0 +1,101 @@
+[
+    {
+       "FIELD1": 0,
+       "courseType": "v2.ondemand",
+       "description": "Are you a business executive or a manager who uses English in your career? Then you know that good business communication in English requires focus, vocabulary, and specific linguistic structures. In this course, you will follow along a recently promoted manager as she builds and leads her team to success. Together, you will practice the language and styles of communication  needed in English for: \n•\tRecruiting and training a professional team to work together with integrity and respect\n•\tManaging and participating in well-organized meetings\n•\tMaking telephone conferences more efficient\n•\tWriting professional emails that are easy to read\nThe activities in this course will give you the opportunity to share your experience and receive immediate feedback from other business professionals around the world.\n\n¿Es usted un ejecutivo de negocios o gerente que utiliza inglés en su profesión? Entonces Ud. sabe que la buena comunicación empresarial en inglés exige los enfoques, el vocabulario y las estructuras lingüísticas específicas. En este curso, Ud. seguirá, a lo largo con un gerente recién promovido, como ella construye y conduce a su equipo hacia el éxito. Juntos, ustedes practicarán el lenguaje y los estilos de comunicación en inglés necesarios para:\n·       Reclutar y el entrenar a un equipo profesional a trabajar juntos con integridad y respeto\n·       Manejar y participar en las reuniones bien organizadas\n·       Hacer que las conferencias telefónicas sean más eficaz\n·       Escribir correos electrónicos profesionales que sean fáciles de leer\nLas actividades en este curso le dan la oportunidad de compartir su experiencia y recibir retroalimentación inmediata de otros profesionales empresariales en todo el mundo.",
+       "id": "koVAwj03EeWZtA4u62x6lQ",
+       "slug": "ingles-empresarial-gestion-liderazgo",
+       "instructorIds": "['13730176', '14184517', '13774774']",
+       "specializations": "[]",
+       "partnerIds": "['287']",
+       "name": "Inglés Empresarial: Gestión y Liderazgo "
+    },
+    {
+       "FIELD1": 1,
+       "courseType": "v2.ondemand",
+       "description": "Welcome to \"Chinese Characters for beginner\"!\nThis is an elementary course on learning Chinese characters. Together, we will start from the basic element of Chinese characters-- Strokes. Then we will learn 1,200 basic Chinese words composed of 240 commonly used Chinese characters, which begin with  “一”(one), including pronunciation, shape and meaning, so that to improve the learning effect. \n\n①  Each Chinese character is with pinyin;\n\n②  Each Chinese character is shown in the form of animation in the process of writing, namely strokes;\n\n③  English translation is used on the Chinese character can be a word itself. Other Chinese characters can not be independent of words are the characters of. The English translation of this kind of characters is marked in parentheses;\n\n④  Each Chinese word is accompanied by Pinyin, English translation and picture, which is easy to understand;\n\n⑤  There are proper exercises at the end of each lesson.\n\nGood luck !",
+       "id": "LZZg6vhQEeWfYgqbi1xsdw",
+       "slug": "hanzi",
+       "instructorIds": "['14780670']",
+       "specializations": "[]",
+       "partnerIds": "['163']",
+       "name": "Chinese Characters for beginner 汉字"
+    },
+    {
+       "FIELD1": 2,
+       "courseType": "v2.ondemand",
+       "description": "It used to be the case that everyone viewed webpages on about the same size screen.  But with the explosion of the use of smartphones to access the Internet, the landscape of design has completely changed.  People viewing your site will now expect that it will perform regardless of the platform (smartphone, tablet, laptop, or desktop computer).  This ability to respond to any platform is called responsive design.\n\nThis course will expand upon the basic knowledge of CSS3 to include topics such as wireframes, fluid design, media queries, and the use of existing styling paradigms such as Bootstrap.  After the course, learners will be able to:\n** Explain the mobile-first paradigm and the importance of wireframes in the design phase\n** Create sites that behave across a range of platforms\n** Utilize existing design frameworks such as Bootstrap\n\nThis is the fourth course in the Web Design For Everybody specialization.  A basic understanding of HTML and CSS is expected when you enroll in this class. Additional courses focus on adding interactivity with the JavaScript Programming Language and completing a capstone project.",
+       "id": "g9KhGjk_EeWXuQopUhAqaw",
+       "slug": "responsivedesign",
+       "instructorIds": "['14130305', '122340']",
+       "specializations": "[]",
+       "partnerIds": "['3']",
+       "name": "Advanced Styling with Responsive Design"
+    },
+    {
+       "FIELD1": 3,
+       "courseType": "v2.ondemand",
+       "description": "The goal of this capstone spacecraft dynamics project is to employ the skills developed in the rigid body Kinematics, Kinetics and Control courses.  An exciting two-spacecraft mission to Mars is considered where a primary mother craft is in communication with a daughter vehicle in another orbit.  The challenges include determining the kinematics of the orbit frame and several desired reference frames, numerically simulating the attitude dynamics of the spacecraft in orbit, and implementing a feedback control that then drives different spacecraft body frames to a range of mission modes including sun pointing for power generation, nadir pointing for science gathering, mother spacecraft pointing for communication and data transfer.  Finally, an integrated mission simulation is developed that implements these attitude modes and explores the resulting autonomous closed-loop performance. \n\nTasks 1 and 2 use three-dimensional kinematics to create the mission related orbit simulation and the associated orbit frames.  The introductory step ensures the satellite is undergoing the correct motion, and that the orbit frame orientation relative to the planet is being properly evaluated.\n\nTasks 3 through 5 create the required attitude reference frame for the three attitude pointing modes called sun-pointing, nadir-pointing and GMO-pointing.  The reference attitude frame is a critical component to ensure the feedback control drives the satellite to the desired orientation.  The control employed remains the same for all three pointing modes, but the performance is different because different attitude reference frames are employed.  \n\nTasks 6 through 7 create simulation routines to first evaluate the attitude tracking error between a body-fixed frame and a particular reference frame of the current attitude mode.  Next the inertial attitude dynamics is evaluated through a numerical simulation to be able to numerically analyze the control performance.\n\nTasks 8-11 simulate the closed-loop attitude performance for the three attitude modes.  Tasks 8 through 10 first simulate a single attitude at a time, while tasks 11 develops a comprehensive attitude mission simulation which considers the attitude modes switching autonomously as a function of the spacecraft location relative to the planet.",
+       "id": "-OhCD5y-EeizghIFbOmg-g",
+       "slug": "capstone-mars-mission",
+       "instructorIds": "['21988949']",
+       "specializations": "[]",
+       "partnerIds": "['71']",
+       "name": "Spacecraft Dynamics Capstone: Mars Mission"
+    },
+    {
+       "FIELD1": 4,
+       "courseType": "v2.ondemand",
+       "description": "Welcome to The City and You: Find Your Best Place. I'm excited to have you in the class and look forward to your contributions to the other learners in our community.\n\nThis free course will provide the knowledge and  the tools needed to understand what cities do, why they matter, the forces shaping the greatest wave of urbanization in history, and how to pick the right place for you. The course will also help you develop critical thinking skills. We'll accomplish this by providing evidence of the importance of cities, and why and how they matter to you. Then we’ll ask you to apply what you’ve learned in an exercise which will help you assess your own community and find your best place.\n\n This course is accessible and open to anyone who is interested in learning more about cities and the ways they affect our lives. It is organized around five key modules: (1) Why Cities Matter,  (2) A World of Cities,  (3) The Creative City, (4) The Divided City and the New Urban Crisis, and (5) How to Find the Best Place for You.\n\n After completing the course, you will be able to:\n\n\n(1) Identify why cities are the drivers of economic prosperity;\n(2) Explain the drivers and implications of fast-growing urbanization worldwide;\n(3) Outline the key characteristics of a creative and innovative city;\n(4) Describe the social divides and challenges facing cities and the solutions cities are using to address them; and\n(5) Recognize the trade-offs of staying in your current city versus moving, and identify the best place for you and your family to live.\n\nGood luck as you get started, and I hope you enjoy the course!",
+       "id": "GHhkynNMEeWKsgrp3VnvAw",
+       "slug": "city-and-you-find-best-place",
+       "instructorIds": "['15652512']",
+       "specializations": "[]",
+       "partnerIds": "['11']",
+       "name": "The City and You: Find Your Best Place"
+    },
+    {
+       "FIELD1": 5,
+       "courseType": "v2.ondemand",
+       "description": "This 1-week, accelerated course builds upon previous courses in the Data Engineering on Google Cloud Platform specialization. Through a combination of video lectures, demonstrations, and hands-on labs, you'll learn how to create and manage computing clusters to run Hadoop, Spark, Pig and/or Hive jobs on Google Cloud Platform.  You will also learn how to access various cloud storage options from their compute clusters and integrate Google’s machine learning capabilities into their analytics programs.  \n\nIn the hands-on labs, you will create and manage Dataproc Clusters using the Web Console and the CLI, and use cluster to run Spark and Pig jobs. You will then create iPython notebooks that integrate with BigQuery and storage and utilize Spark. Finally, you integrate the machine learning APIs into your data analysis.\n\nPre-requisites\n• Google Cloud Platform Big Data & Machine Learning Fundamentals (or equivalent experience)\n• Some knowledge of Python",
+       "id": "voUQTv9AEeaBXg46-AuF8A",
+       "slug": "leveraging-unstructured-data-dataproc-gcp",
+       "instructorIds": "['22997770']",
+       "specializations": "[]",
+       "partnerIds": "['443']",
+       "name": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform"
+    },
+    {
+       "FIELD1": 6,
+       "courseType": "v2.ondemand",
+       "description": "If you really care about the big questions in the economies and societies of the 21st century, such as distributive justice - namely, inequality of income or wealth, and its correlation with economic growth - this course is meant for you. The knowledge you will gain can truly change your outlook on our world.\n\n\"Economic Growth and Distributive Justice -  Maximizing Social Wellbeing\" is the second part of a two part course and it includes the following five lectures: \n(1) The excess burden of taxation\n(2) Tax incidence: who bears the economic burden of tax?\n(3) Progressivity: definition and ways to achieve\n(4) Low Income, Low Ability and the Optimal Income Tax Model\n(5) Designing the Tax and Transfer System that Maximizes Social Wellbeing\nIf you haven't done that already, we strongly recommend that you register for the first part of the course: \"Economic Growth and Distributive Justice - the Role of the State\". Taking both parts of the course would enable you to obtain a fuller and more comprehensive knowledge about Economic Growth and Distributed Justice.\n\nThe course is founded upon the elemental idea that the role of the state is to maximize the well-being - or simply the happiness - of its residents. In 9 fascinating, edifying lessons, using only simple words and decoding professional terminologies that sometimes baffle the intelligent layman, the course expounds many truths – both intuitive and unintuitive. Often using examples from the US and Europe, it does not however focus on policies in any particular region of the world, and is directly applicable to all countries around the globe.\n\nThe course touches upon the essence of important concepts like efficiency and equity, inequality and poverty, gross domestic product, tax evasion and tax planning; it presents the work of Nobel Laureate James Mirrlees and his followers - promoting a coherent system that integrates tax and government expenditures to maximize social welfare; and illuminates a range of high-profile issues from their economic angle:\n• Climate change: the atmosphere and oceans as public goods, and how smart (Pigovian) taxation can be used to combat the rapidly increasing threats to our planet;\n• Technology as the engine of economic growth;\n• Taxing the rich: How can we mitigate the growing inequality problem? Should we   impose a global tax on capital?\n\nThe curriculum includes interviews with major figures in the fields of law and of economics:  Harvard's Elhanan Helpman, Dan Shaviro from NYU and Richard Epstein from the University of Chicago and NYU.\n\nAfter successfully completing this course, you can expect to be able to:\n• better understand economic issues presented in the media\n• form an informed opinion on the strengths and weaknesses of presented social economic policies\n• define and measure inequality and poverty\n• define the connection between inequality (income, wealth) and economic growth\n• explain the foundations of economic growth\n• design a tax and transfer system to maximize the happiness of individuals\n\nAll these will allow you to better understand the policies being developed around you, and to play a larger, more informed role in their development, as a conscientious citizen.\n\n\nIn order to receive academic credit for this course you must successfully pass the academic exam on campus. For information on how to register for the academic exam – https://tauonline.tau.ac.il/registration\n\nAdditionally, you can apply to certain degrees using the grades you received on the courses. Read more on this here – \nhttps://go.tau.ac.il/b.a/mooc-acceptance\n\nTeachers interested in teaching this course in their class rooms are invited to explore our Academic High school program here – https://tauonline.tau.ac.il/online-highschool\n\nThis course is a direct extension of the first part \"Economic Growth and Distributive Justice Part I -The Role of the State\", so if you have not yet taken it, we highly recommend you start your learning from there .",
+       "id": "DJfupMVPEeWLqBIulHpzDw",
+       "slug": "economic-growth-part-2",
+       "instructorIds": "['4065570']",
+       "specializations": "[]",
+       "partnerIds": "['110']",
+       "name": "Economic Growth and Distributive Justice Part II - Maximize Social Wellbeing"
+    },
+    {
+       "FIELD1": 7,
+       "courseType": "v2.ondemand",
+       "description": "College can be confusing and intimidating, but U101 can help. If you were just admitted to college and are nervous about what the next step in life might look like, this course is for you. If you are the parent of a newly admitted college student and curious about what college life is like, this course is also for you. \n\nWhile your specific college will, no doubt, provide additional orientation material, we wanted to give some basic information about what life might be like at a large American University. You might be years away from college or enrolled right now; either way, U101 has some excellent advice from college students, professors, administrators, and staff.\n\nAt the conclusion of the course, learners should:\n1. Understand the basics of how colleges and universities operate. \n2. Identify and describe what faculty are looking for in college-level academic work. \n3. List some effective study strategies. \n4. Identify some strategies for exploring and selecting a major. \n5. Identify the various types of grants and scholarships available and describe the steps involved in applying to these.\n6. Discuss the college life, with special attention to the benefits/limitations of living on or off campus. \n7. Identify some strategies for getting the most out of campus life activities (investigating student clubs, fraternities, sororities, etc.).\n\nThe course is divided into 4 weeks/8 lessons, which provide an overview of the different aspects of college life. If you were just watching the videos and looking at some of the links, the whole course would take about 4-5 hours. \n\nWeek 1\nLesson 1. Welcome to U101!\nLesson 2. Understanding the Nature of College\n\nWeek 2\nLesson 3. Succeeding as a Student\nLesson 4. Building Your Major\n\nWeek 3\nLesson 5. Financing Your Education\nLesson 6. Living On and Off Campus\n\nWeek 4\nLesson 7. Getting Involved in Campus Life\nLesson 8. Conclusion\n\nPlease join us for a short exploration of modern American Colleges. Hopefully, this course can help demystify your upcoming college experience.",
+       "id": "THaE_RqwEeWDtQoum3sFeQ",
+       "slug": "college-life",
+       "instructorIds": "['2255684', '7688329']",
+       "specializations": "[]",
+       "partnerIds": "['15']",
+       "name": "U101: Understanding College and College Life"
+    },
+    {
+       "FIELD1": 8,
+       "courseType": "v2.ondemand",
+       "description": "Learn about the technologies underlying experimentation used in systems biology, with particular focus on RNA sequencing, mass spec-based proteomics, flow/mass cytometry and live-cell imaging.\n\nA key driver of the systems biology field is the technology allowing us to delve deeper and wider into how cells respond to experimental perturbations. This in turns allows us to build more detailed quantitative models of cellular function, which can give important insight into applications ranging from biotechnology to human disease. This course gives a broad overview of a variety of current experimental techniques used in modern systems biology, with focus on obtaining the quantitative data needed for computational modeling purposes in downstream analyses. We dive deeply into four technologies in particular, mRNA sequencing, mass spectrometry-based proteomics, flow/mass cytometry, and live-cell imaging. These techniques are often used in systems biology and range from genome-wide coverage to single molecule coverage, millions of cells to single cells, and single time points to frequently sampled time courses. We present not only the theoretical background upon which these technologies work, but also enter real wet lab environments to provide instruction on how these techniques are performed in practice, and how resultant data are analyzed for quality and content.",
+       "id": "iCIGe_T6EeS-1yIAC7MN4w",
+       "slug": "experimental-methods",
+       "instructorIds": "['6072943']",
+       "specializations": "[]",
+       "partnerIds": "['27']",
+       "name": "Experimental Methods in Systems Biology"
+    }
+]
